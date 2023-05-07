@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://srinanoo.github.io/november-batch-2022-reactjs-output/static/css/main.c404c40d.css",
+    "main.js": "https://srinanoo.github.io/november-batch-2022-reactjs-output/static/js/main.54d68d6e.js",
+    "static/js/787.de4fcace.chunk.js": "https://srinanoo.github.io/november-batch-2022-reactjs-output/static/js/787.de4fcace.chunk.js",
+    "index.html": "https://srinanoo.github.io/november-batch-2022-reactjs-output/index.html",
+    "main.c404c40d.css.map": "https://srinanoo.github.io/november-batch-2022-reactjs-output/static/css/main.c404c40d.css.map",
+    "main.54d68d6e.js.map": "https://srinanoo.github.io/november-batch-2022-reactjs-output/static/js/main.54d68d6e.js.map",
+    "787.de4fcace.chunk.js.map": "https://srinanoo.github.io/november-batch-2022-reactjs-output/static/js/787.de4fcace.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c404c40d.css",
+    "static/js/main.54d68d6e.js"
+  ]
+}
